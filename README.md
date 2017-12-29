@@ -8,6 +8,6 @@ node script.js ['filename']
 Enter filename (with extension) to convert the file to the .json file with the same filename.
 Otherwise, script will try to convert file.csv to file.json.
 
-#Dependencies
+# Dependencies
 
 csvToJson
